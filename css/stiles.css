@@ -1,0 +1,22 @@
+body {
+  font-family: 'Prompt', sans-serif;
+}
+
+h1 {
+  background-color: #171717;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+h2 {
+  background-color: #716ac5;
+  font-weight: 400;
+  font-size: 50px;
+}
+h3 {
+  background-color: rgba(200, 200, 200);
+  /* background-color: #121212; */
+  font-family: 'Prompt italik';
+  font-weight: 400;
+  font-size: 50px;
+}
