@@ -1,18 +1,18 @@
-'use strict';
-const productName = 'Repair droid';
-console.log('JavaScript is awesome!');
-console.log(10);
-console.log(productName.length); //довжина рядка
-const username = 'Poly';
-const userStringLong = username.length;
-const message = `Username ${username} is ${username.length} characters long`;
-console.log(message);
+// 'use strict';
+// const productName = 'Repair droid';
+// console.log('JavaScript is awesome!');
+// console.log(10);
+// console.log(productName.length); //довжина рядка
+// const username = 'Poly';
+// const userStringLong = username.length;
+// const message = `Username ${username} is ${username.length} characters long`;
+// console.log(message);
 
-const product = 'Repair droid'; //доступ до потрібного символу
-console.log(product[0]); // 'R'
-console.log(product[5]); // 'r'
-console.log(product[11]); // 'd'
-console.log(product[product.length - 1]); // 'd'
+// const product = 'Repair droid'; //доступ до потрібного символу
+// console.log(product[0]); // 'R'
+// console.log(product[5]); // 'r'
+// console.log(product[11]); // 'd'
+// console.log(product[product.length - 1]); // 'd'
 
 // const product = "Repair droid";  //знаходження останього індексу в рядку
 // const lastElementIndex = product.length - 1;
@@ -43,3 +43,19 @@ console.log(product[product.length - 1]); // 'd'
 //Math.sqrt(calculate);  // Визначення квадратного кореня
 
 //toFixed() повертає рядок, що представляє число із зазначеною кількістю знаків після крапки.
+
+// let arr = [1, 2, 3, 4, 5];
+
+// let slicedArray = arr.slice(1, 4);
+// console.log(slicedArray);
+// let splicedArray = arr.splice(2, 2);
+// console.log(splicedArray);
+// console.log(arr);
+// console.log(slicedArray.length + splicedArray.length);
+
+// let a = 3;
+// let b = new Number(3);
+// let c = 3;
+// console.log(a == b);
+// console.log(a === c);
+// console.log(b === c);
